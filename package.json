@@ -1,0 +1,20 @@
+{
+  "name": "SDV503-Lab-Six-Christina-John",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Christina548/SDV503-Lab-Six-Christina-John.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Christina548/SDV503-Lab-Six-Christina-John/issues"
+  },
+  "homepage": "https://github.com/Christina548/SDV503-Lab-Six-Christina-John#readme"
+}
