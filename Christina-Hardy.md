@@ -1,0 +1,2 @@
+## Lab 6 Journal
+For the pair coding exercises I was the driver on two tasks and the navigator on one task.  John was very helpful as both the navigator and the driver.  I really appreciated his help in making the code work and explaining it to me.  The main challenge we faced with the tasks was ensuring the code would return an error if the wrong data type was entered.  For task one we solved this through using an if statement and the typeof operator.  For task 3 John used the number.isInteger() method to check whether the value is an integer.
